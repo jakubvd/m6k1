@@ -123,7 +123,7 @@
 /* Align text in header row */
 .fights-record-table thead th {
     text-align: left;
-    font-family: var(--body-text), sans-serif;
+    font-family: var(--_fonts---body-font);
     font-size: 17px;
     line-height: 1;
     font-weight: 700;
